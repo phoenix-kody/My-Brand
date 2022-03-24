@@ -1,0 +1,136 @@
+body{
+    background-size: cover;
+}
+#pages{
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo{
+    border-radius: 30px;
+
+}
+
+#name{
+    font-family: poppins;
+    font-size: 30px;
+    color:white;   
+
+}
+
+#capture{
+    font-size:20px ;
+    opacity: 50%;
+    color:white;
+    margin-top: -0.4cm;
+    padding-left: 0.8cm;
+}
+#image{
+    padding-left: 0.8cm;
+     
+  
+}
+p{
+    color:white;
+}
+
+
+#Js{
+    border-radius: 12px;
+   display:inline-block;
+}
+
+
+#html{
+    border-radius: 12px;
+}
+table{
+    padding-left: 0.2cm;
+}
+
+
+#Css{
+    border-radius: 12px;
+}
+#blogs{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0.8cm;
+    padding-top: 0.8cm;
+    
+
+}
+#music{
+    margin-right: 22.8cm;
+}
+
+#Description{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+
+
+}
+#moontext{
+    font-size: 14px;
+    margin-left: 0.8cm;
+    margin-top:-0.1cm;
+    opacity: 50%;
+    
+}
+#musictext{
+    margin-right:24cm;
+    margin-top: -0.1cm;
+    opacity: 50%;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#read{
+    color: rgb(23, 105, 23);
+    margin-top:-1.3cm;
+    padding-left: 3.3cm;
+    font-size: 14px;
+}
+ul{
+  padding-left: 15cm;
+  margin-top: -13cm;
+ 
+}
+ li{
+     display: inline-block;
+     margin-right: 1cm;
+     
+     
+ }
+a{
+    text-decoration:none;
+}
+
+#g{
+    color: rgba(7, 117, 7, 0.808);
+
+}
+
+#na{
+    color: navy;
+
+}
+
+
+#ora{
+    color:rgb(209, 36, 13);
+
+}
+
+
+#oran{
+    color:rgb(209, 36, 13);
+    margin-left: 0.4cm;
+
+}
+#Arsene{
+    margin-left:17.6cm;
+}
+
+
+

@@ -1,0 +1,60 @@
+body{
+    background-size: cover;
+}
+
+#contact{
+    font-size: 24px;
+    text-align: center;
+    border-style:hidden;
+    background-color: rgba(11, 216, 11, 0.288);
+    margin-right: 21cm;
+    margin-left: 10.5cm;
+    margin-top: 6cm;
+     padding-top: 0.5cm;
+    padding-bottom:0.5cm;
+    border-radius: 20px;
+    
+
+    
+
+}
+p{
+    color: white;
+}
+textarea{
+margin-left:20cm;
+margin-top: -12.5cm;
+background-color: rgba(13, 228, 13, 0.384);
+border-radius: 8px;
+}
+#intro{
+    text-align:center;
+    font-size:60px;
+    padding-top: 3cm;
+    color:rgba(128, 128, 128, 0.712);
+
+
+
+}
+#up{
+    margin-top:-5cm;
+}
+
+#home{
+    text-align: right;
+    opacity: 50%;
+    margin-right:13cm;
+    ;
+    margin-top: 1cm;
+}
+
+#tohome{
+    color: white;
+    text-decoration:none;
+}
+
+
+
+
+
+

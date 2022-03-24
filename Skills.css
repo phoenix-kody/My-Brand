@@ -1,0 +1,133 @@
+body{
+    background-size: cover;
+}
+p{
+    color: white;
+}
+#info{
+    font-size:30px;
+    opacity:50%;
+    margin-left:2cm;
+    display: inline-block;
+}
+
+#Js{
+    display: inline-block;
+    margin-right: 0.5cm;
+}
+
+#Html{
+    display: inline-block;
+    margin-right: 0.5cm;
+}
+#css{
+    display: inline-block;
+    margin-right: 0.5cm;
+}
+#image{
+ padding-left: 20cm;
+ margin-top: -5cm;
+ opacity:80%;
+ margin-left: -3cm;
+}
+#languages{
+  
+    padding-top: 1cm;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    opacity: 50%;
+}
+#js{
+    margin-left: 1.8cm;
+    display: inline-block;
+    
+}
+
+#Css{
+    margin-left: 6.5cm;
+    display: inline-block;
+}
+
+
+#html{
+    margin-left: 11cm;
+    display: inline-block;
+   
+
+}
+
+#Jsi{
+    margin-left: 1.4cm;
+    margin-bottom: 8cm;
+    display: inline-block;
+    mix-blend-mode: multiply;
+
+}
+
+#cssi{
+    margin-left: 3cm;
+    margin-top:0.3cm;
+    margin-bottom:8cm;
+    display: inline-block;
+    mix-blend-mode: multiply;
+
+
+}
+
+#Htmli{
+    margin-left: 3cm;
+     margin-bottom: 6cm;
+     display: inline-block;
+     mix-blend-mode: multiply;
+
+}
+
+#percent{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -8.5cm;
+
+}
+
+#Jsp{
+font-size: 25px;
+margin-left: 2.8cm;
+
+}
+
+#cssp{
+margin-right:7cm;
+    font-size: 25px;
+    }
+    
+#Htmlp{
+      font-size: 25px;
+      margin-right: 8cm;
+      margin-top: 2cm;
+
+    
+    }
+#regulate{
+    margin-top: 1cm;
+    margin-left: 2cm;
+    }
+
+
+#home{
+    text-align: right;
+    opacity: 50%;
+    margin-right:7.5cm;
+    margin-top: 0.5cm;
+}
+#tohome{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+body{
+    background-size: cover;
+}
+p{
+    color: white;
+    opacity: 50%;
+}
+th{
+    color: white;
+    opacity: 70%;
+    font-size: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.404);
+
+}
+td{
+    color: white;
+    opacity: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.356);
+    
+    
+}
+table{
+    border-color: white;
+    border: 1px solid rgba(255, 255, 255, 0.418);
+    border-collapse:collapse;
+    width:30%;
+    
+}
+#sentence1,#sentence2{
+    font-size: 20px;
+    opacity: 50%;
+
+}
+#skillsource{
+    color: rgb(170, 28, 28);
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#cv{
+ border-radius:12px;
+ display: inline-block;
+}
+
+#Arsene{
+    margin-left: 18cm;
+    margin-top: -9cm;
+    opacity: 70%;
+    border-radius: 10px;
+}
+#regulate{
+    margin-top:2cm;
+    margin-left: 2cm;
+}
+
+#home{
+    text-align: right;
+    opacity: 50%;
+    margin-right:5.5cm;
+    margin-top: 0.5cm;
+}
+
+#tohome{
+    color: white;
+    text-decoration:none;
+}
